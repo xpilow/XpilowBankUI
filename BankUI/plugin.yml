@@ -1,8 +1,8 @@
 name: BankUI
-version: 1.0-RezaG
-main: RezaG\Main
+version: 1.0-xpilow
+main: xpilow\Main
 api: [3.0.0, 4.0,0]
-author: RezaG
+author: xpilow
 
 commands:
  bank:
